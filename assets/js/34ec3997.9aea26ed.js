@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus=self.webpackChunkdocusaurus||[]).push([[32],{1244:e=>{e.exports=JSON.parse('{"title":"For Server User","slug":"/category/for-server-user","permalink":"/category/for-server-user","navigation":{"previous":{"title":"Lab Server Documentation","permalink":"/"},"next":{"title":"Login to the server","permalink":"/server-user/login"}}}')}}]);
