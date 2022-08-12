@@ -15,7 +15,7 @@ Before we begin, let's understand some of the underlying theory.
 
 To ease everything up, we use Tailscale VPN to bypass the campus network's firewall. Typically, a campus network disallow certain ports to be access outside of the network. Therefore, the simplest way is to setup a VPN to bypass the firewall. A simple illustration is shown below.
 
-![Network configuration diagram](img/vpn.png)
+![Network configuration diagram](./img/vpn.png)
 
 :::note
 You can access the server without VPN if you are using campus network. You just need to know the server's IP address. 
