@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Lab Server Documentation',
   tagline: 'Learn how to use the lab server correctly and efficiently',
-  url: 'https://eelab.tk',
+  url: 'https://hongvin.github.io/server-documentation',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
