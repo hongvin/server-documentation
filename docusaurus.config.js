@@ -9,7 +9,7 @@ const config = {
   title: 'Lab Server Documentation',
   tagline: 'Learn how to use the lab server correctly and efficiently',
   url: 'https://hongvin.github.io/server-documentation',
-  baseUrl: '/',
+  baseUrl: '/server-documentation/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
